@@ -1,0 +1,9 @@
+[
+  { "name": "Business Discovery", "hex": "#F5DF4D" },
+  { "name": "Deep Researcher", "hex": "#0f4c81" },
+  { "name": "Data Discovery and Master Data Preperation", "hex": "#FA7268" },
+  { "name": "EDA Engine", "hex": "#5f4b8b" },
+  { "name": "Greenery", "hex": "#88b04b" },
+  { "name": "ML Engine", "hex": "#F7CAC9" },
+  { "name": "Memory Bank", "hex": "#B57170" }
+]
